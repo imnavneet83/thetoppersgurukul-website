@@ -10,15 +10,12 @@ export default function TheToppersGurukulWebsite() {
           <h1 className="text-2xl md:text-3xl font-bold text-cyan-800 tracking-wide">
             The Toppers Gurukul
           </h1>
-          <p className="text-cyan-800 font-semibold tracking-[0.25em] text-sm md:text-base mt-1">
-            Where Wisdom Meets Success
-          </p>
         </div>
 
         <div className="hidden md:flex flex-col items-center justify-center px-6">
           <p className="text-sm text-gray-500">Call Us</p>
           <p className="text-lg md:text-xl font-bold text-cyan-800">
-            +91 92040506080
+            +91 9204506080
           </p>
         </div>
 
@@ -61,7 +58,7 @@ export default function TheToppersGurukulWebsite() {
 
           <div className="flex flex-wrap gap-4 mt-10">
             <a
-              href="https://wa.me/9192040506080"
+              href="https://wa.me/919204506080"
               target="_blank"
               className="bg-white text-cyan-800 px-7 py-4 rounded-2xl font-bold shadow-lg hover:scale-105 transition"
             >
@@ -180,11 +177,11 @@ export default function TheToppersGurukulWebsite() {
           </p>
 
           <p className="mt-6 text-2xl font-bold text-cyan-800">
-            +91 92040506080
+            +91 9204506080
           </p>
 
           <a
-            href="https://wa.me/9192040506080"
+            href="https://wa.me/919204506080"
             target="_blank"
             className="inline-block mt-8 bg-green-500 text-white px-8 py-4 rounded-2xl font-bold"
           >
@@ -218,9 +215,6 @@ export default function TheToppersGurukulWebsite() {
               <h3 className="text-white font-bold text-2xl">
                 The Toppers Gurukul
               </h3>
-              <p className="text-sm text-gray-400">
-                Where Wisdom Meets Success
-              </p>
             </div>
           </div>
 
